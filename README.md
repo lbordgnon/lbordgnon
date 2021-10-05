@@ -1,4 +1,4 @@
-👨‍💻 Olá, meu nome e Leonardo Bordignon e sou desenvolvedor de softaware
+👨‍💻 Olá, meu nome e Leonardo Bordignon. Sou desenvolvedor de softaware
 
 👨🏻‍🎓 Sou formado em Bacharelado de Sistemas de Informação pela PUCPR e já trabalho com desenvolvimento desde meados de 2019.
 
